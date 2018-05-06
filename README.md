@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 Kaggle describes this competition as follows:
 
 Ask a home buyer to describe their dream house, and they probably won’t begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition’s dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
@@ -24,7 +24,7 @@ RandomForestRegressor(Grid Search)
 SupportVectorRegressor
 Currently Adding More models to achive highest accuracy
 
-References
+## References
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda
 https://brownmath.com/stat/shape.htm
