@@ -6,7 +6,7 @@ Ask a home buyer to describe their dream house, and they probably won’t begin 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 ### Practice Skills
-Creative feature engineering
+Feature Engineering , feature extraction
 Advanced regression techniques like random forest and gradient boosting
 
 ### Flow of Approach
@@ -18,9 +18,9 @@ Model optimization
 
 ### Different Models Used:
 RandomForestRegressor
-RandomForestRegressor(Grid Search)
+Grid Search
 SupportVectorRegressor
-# Currently Adding More models to achive highest accuracy
+# Will add more ML models to achive higher accuracy
 
 ## References
 
