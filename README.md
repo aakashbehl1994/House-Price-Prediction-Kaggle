@@ -27,7 +27,11 @@ SupportVectorRegressor
 # Currently Adding More models to achive highest accuracy
 
 ## References
+
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
 https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda
+
 https://brownmath.com/stat/shape.htm
+
 https://www.youtube.com/watch?v=XdM6ER7zTLk
