@@ -5,10 +5,11 @@ Ask a home buyer to describe their dream house, and they probably won’t begin 
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-Practice Skills
+### Practice Skills
 Creative feature engineering
 Advanced regression techniques like random forest and gradient boosting
-Flow of Approach
+
+### Flow of Approach
 Importing Dependencies
 Loading and Inspecting Dataset
 Data Cleaning
@@ -18,11 +19,12 @@ Feature Scaling
 Encoding Categorical variables
 Regression Model Creation
 Model optimization
-Different Models Used:
+
+### Different Models Used:
 RandomForestRegressor
 RandomForestRegressor(Grid Search)
 SupportVectorRegressor
-Currently Adding More models to achive highest accuracy
+# Currently Adding More models to achive highest accuracy
 
 ## References
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
