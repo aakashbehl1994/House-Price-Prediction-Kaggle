@@ -20,7 +20,7 @@ Model optimization
 RandomForestRegressor
 Grid Search
 SupportVectorRegressor
-# Will add more ML models to achive higher accuracy
+## Will add more ML models to achive higher accuracy
 
 ## References
 
