@@ -1,5 +1,5 @@
 ## Introduction
-Kaggle describes this competition as follows:
+Kaggle describes the competition as follows:
 
 Ask a home buyer to describe their dream house, and they probably won’t begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition’s dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
@@ -10,12 +10,8 @@ Creative feature engineering
 Advanced regression techniques like random forest and gradient boosting
 
 ### Flow of Approach
-Importing Dependencies
 Loading and Inspecting Dataset
-Data Cleaning
-Preparing the Data
-Feature Creation
-Feature Scaling
+Data Wrangling
 Encoding Categorical variables
 Regression Model Creation
 Model optimization
